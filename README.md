@@ -8,6 +8,7 @@ To activate the formatter you have to add a cmd line parameter to lldb:
 "command script import jai_formatters.py"
 
 To use it from Zed add it to your launch profile. Ex:
+```
 // Project-local debug tasks
 //
 // For more documentation on how to configure debug tasks,
@@ -28,3 +29,4 @@ To use it from Zed add it to your launch profile. Ex:
 			"command script import $ZED_WORKTREE_ROOT/jai_formatters.py",
 		],
 ]
+```
