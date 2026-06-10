@@ -4,6 +4,8 @@ Adds support for:
 - Strings
 - Arrays
 
+IMPORTANT: You need to enable "use_natvis_compatible_types" in your metaprogram.
+
 To activate the formatter you have to add a cmd line parameter to lldb:
 "command script import jai_formatters.py"
 
