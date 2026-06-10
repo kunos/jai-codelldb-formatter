@@ -1,5 +1,5 @@
 # jai-codelldb-formatter
-Jai code formatter for lldb debugger.
+Jai code formatter for CodeLLDB debugger.
 Adds support for:
 - Strings
 - Arrays
