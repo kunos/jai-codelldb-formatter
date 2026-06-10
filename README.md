@@ -30,3 +30,7 @@ To use it from Zed add it to your launch profile. Ex:
 		],
 ]
 ```
+
+The resulting array and string formatting in Zed:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d7e51b71-9d31-4ba4-93c3-bf6d00d0e838" />
+
